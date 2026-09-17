@@ -1,6 +1,6 @@
-# Jason's Web Scraper Bot
+Web Scraper Bot
 
-Jason's Web Scraper Bot is a complete prototype for an AI-guided public web scraping assistant. The app analyzes a URL first, checks basic compliance constraints, suggests scrapeable fields, asks clarifying questions when confidence is low, scrapes only selected fields, previews results in a table, exports CSV/Excel/JSON, and saves reusable templates for future runs. It also includes a Live Web Scraper that opens webpages with Playwright, waits for JavaScript-rendered content, captures screenshots, extracts visible tables/products/links/images/filters, exports the result, and saves live scrape history.
+Web Scraper Bot is a complete prototype for an AI-guided public web scraping assistant. The app analyzes a URL first, checks basic compliance constraints, suggests scrapeable fields, asks clarifying questions when confidence is low, scrapes only selected fields, previews results in a table, exports CSV/Excel/JSON, and saves reusable templates for future runs. It also includes a Live Web Scraper that opens webpages with Playwright, waits for JavaScript-rendered content, captures screenshots, extracts visible tables/products/links/images/filters, exports the result, and saves live scrape history.
 
 ## Stack
 
